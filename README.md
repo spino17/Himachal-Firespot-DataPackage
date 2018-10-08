@@ -1,0 +1,2 @@
+# Himachal-Firespot-DataPackage
+Forest Fire Notification App under Himachal government which provides an interface for the user to upload an image alert of the forest fire and then the GPS location of the sender is circulated to the registered authorities like fire brigades, government officials and reporters. This reduces the time to spot the location and prevent deaths of village people around the active forest fire region.
